@@ -178,7 +178,7 @@
           "@type": [
             "http://plugins.linkedpipes.com/ontology/e-httpGetFile#Configuration"
           ],
-          "http://plugins.linkedpipes.com/ontology/e-httpGetFile#fileUri": "https://raw.githubusercontent.com/tobice/LDVMi/master/sample_datasets/refugees/refugees_2015.csv",
+          "http://plugins.linkedpipes.com/ontology/e-httpGetFile#fileUri": "https://raw.githubusercontent.com/tobice/appgen-datasets/master/refugees/refugees_2015.csv",
           "http://plugins.linkedpipes.com/ontology/e-httpGetFile#fileName": "refugees.csv"
         }
       ],
